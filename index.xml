@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< Updated upstream
     <title>Gracia Yunruo Dong</title>
     <link>https://graciadong.github.io/</link>
     <description>Recent content on Gracia Yunruo Dong</description>
-=======
-    <title>Gracia Dong</title>
-    <link>https://graciadong.github.io/</link>
-    <description>Recent content on Gracia Dong</description>
->>>>>>> Stashed changes
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Sep 2022 17:51:47 +0330</lastBuildDate><atom:link href="https://graciadong.github.io/index.xml" rel="self" type="application/rss+xml" />

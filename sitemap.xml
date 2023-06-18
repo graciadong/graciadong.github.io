@@ -2,22 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< Updated upstream
-    <loc>https://graciadong.github.io/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/post/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/post/chi-kuang_projects/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
-=======
     <loc>https://graciadong.github.io/about/</loc>
     <lastmod>2022-09-25T17:51:47+03:30</lastmod>
   </url><url>
     <loc>https://graciadong.github.io/</loc>
     <lastmod>2022-09-25T17:51:47+03:30</lastmod>
->>>>>>> Stashed changes
   </url><url>
     <loc>https://graciadong.github.io/tags/ai/</loc>
     <lastmod>2021-01-11T16:12:29-07:00</lastmod>
