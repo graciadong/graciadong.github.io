@@ -2,53 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://graciadong.github.io/blog/2020/12/hello-r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://graciadong.github.io/tags/edi/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://graciadong.github.io/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://graciadong.github.io/tags/job-search/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://graciadong.github.io/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://graciadong.github.io/tags/personal-statement/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://graciadong.github.io/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://graciadong.github.io/blog/2023/09/statement-of-equity-diversity-and-inclusivity-edi/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://graciadong.github.io/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://graciadong.github.io/blog/2023/09/statement-of-teaching-philosophy/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://graciadong.github.io/tags/statistics/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://graciadong.github.io/tags/teaching/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://graciadong.github.io/categories/teaching/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://graciadong.github.io/tags/</loc>
     <lastmod>2020-06-06T22:49:19+02:00</lastmod>
   </url><url>
     <loc>https://graciadong.github.io/categories/</loc>
     <lastmod>2020-06-06T22:48:29+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/latin/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/categories/lorem/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/medieval/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/picture/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/blog/2020/06/picture-shortcode-test/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/categories/theme/</loc>
-    <lastmod>2020-06-04T23:30:14+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/ipsum/</loc>
-    <lastmod>2020-06-04T23:21:09+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/blog/2020/06/tempora-maxime/</loc>
-    <lastmod>2020-06-04T23:21:09+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/test-tag/</loc>
-    <lastmod>2020-06-04T23:21:09+02:00</lastmod>
   </url><url>
     <loc>https://graciadong.github.io/blog/</loc>
     <lastmod>2020-06-04T23:15:33+02:00</lastmod>
@@ -64,42 +46,6 @@
   </url><url>
     <loc>https://graciadong.github.io/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/dolor/</loc>
-    <lastmod>2020-06-01T16:09:23+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/blog/2020/06/lorem/</loc>
-    <lastmod>2020-06-01T16:09:23+02:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/blog/2019/03/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/blog/2019/03/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://graciadong.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://graciadong.github.io/archive/</loc>
   </url><url>
